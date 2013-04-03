@@ -1,0 +1,10 @@
+﻿LANGUAGE, German
+
+dragger.sqf0, "Drop"
+BC_addActions.sqf13, "Drag"
+
+STR_MISSION_NAME, "OPERATION:Survival"
+STR_MISSION_LOCATION, "STRATIS"
+
+STR_TEXT_INFORMATIONTITLE, "Information"
+STR_TEXT_INFORMATIONTEXT,"<br/>GAMEPLAY:<br/><br/>Du landest Irgendwo auf der Insel mit nur eine Pistole mit 30 Schuss und eine Karte und Kompass. Dein Ziel ist es so lange wie möglich zu überleben! Du bist nicht der einziege! Es gibt 2 Fraktionen Blufor und Opfor. Halte Ausschau auf Civilisten, die haben alles was du zum Überleben brauchst."
